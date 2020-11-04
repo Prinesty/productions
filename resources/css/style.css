@@ -1,0 +1,40 @@
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+
+ a {
+   color:inherit;
+ }
+
+ a:hover {
+   text-decoration-line: none;
+   color: #e2390c;
+ }
+
+.jumbotron {
+  background-image: url("../images/1.png");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .outreach:hover {
+  color: #e2390c;
+}
+
+.next,
+.play {
+  font-size: 18px;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h5 {
+  border-left: 5px solid #e2390c;
+}
+
+#outreach p {
+  line-height: 2;
+}
